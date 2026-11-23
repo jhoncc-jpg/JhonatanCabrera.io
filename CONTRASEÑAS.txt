@@ -1,0 +1,9 @@
+CONTRASEÑAS
+Aministrador: jhonatan
+contraseña: Admin123!
+
+Recepcionista:juan
+contraseña: Recepcion123!
+
+Mecanico: rene
+contraseña: Mecanico123!
